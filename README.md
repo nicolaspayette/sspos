@@ -27,6 +27,6 @@ To run this model, you need:
 
 - And the [Rnd extension](https://github.com/NetLogo/Rnd-Extension#netlogo-rnd-extension) for weighted random selection.
 
-## CREDITS AND REFERENCES
+## Credits
 
 Authored by Nicolas Payette for demo at the [Simulating the Social Processes of Science workshop](http://www.lorentzcenter.nl/lc/web/2014/607/info.php3?wsid=607&venue=Oort), Leiden, NL, April 2014.
