@@ -1,8 +1,13 @@
-## WHAT IS IT?
+## What is it?
 
 The purpose of this model is to show how NetLogo and some of its extensions can be used to create a very simple model of the social processes of science. (This is a demo of the tools, not a claim about how science *really* works.)
 
-## HOW IT WORKS
+To get the model, you can either clone this repository or directly download the model file:
+https://raw.githubusercontent.com/nicolaspayette/sspos/master/sspos-demo.nlogo
+
+You can then open it in NetLogo (which is available [here](http://ccl.northwestern.edu/netlogo/).)
+
+## How it works
 
 Choose a population size, a landscape and a network generator, and then click **setup**. A network of scientists will be created and the patches will turn into an "epistemic landscape", where higher (i.e., lighter green) positions represent more desirable ideas/hypothesis/theories/etc. The highest peaks in the landscapes are represented by red patches.
 
@@ -12,7 +17,7 @@ In the case where a scientist is isolated from the rest of the network, it will 
 
 The simulation stops when all scientists are standing on red patches. Sometimes it happens quickly, sometimes not. Different shapes of networks work best on different landscapes. You can use the BehaviorSpace tool to find out which.
 
-## NETLOGO FEATURES
+## NetLogo features
 
 To run this model, you need:
 
