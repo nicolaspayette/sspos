@@ -2,6 +2,9 @@
 
 The purpose of this model is to show how NetLogo and some of its extensions can be used to create a very simple model of the social processes of science. (This is a demo of the tools, not a claim about how science *really* works.)
 
+Slides for a presentation I gave about it are at:
+http://cfpm.org/spos/lcw/sspos-nicolaspayette-expanded.pdf
+
 To get the model, you can either clone this repository or directly download the model file:
 https://raw.githubusercontent.com/nicolaspayette/sspos/master/sspos-demo.nlogo
 
