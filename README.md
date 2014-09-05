@@ -14,7 +14,7 @@ To run this model, you need:
 
 - The [Landscapes Extension](https://github.com/NetLogo/Landscapes-Extension#netlogo-landscapes-extension) for generating the epistemic landscape;
 
-- The [NW extension](https://github.com/NetLogo/NW-Extension#the-netlogo-nw-extension-for-network-analysis) to generate the epistemic network;
+- The [NW extension](https://github.com/NetLogo/NW-Extension#the-netlogo-nw-extension-for-network-analysis) to generate the epistemic network (update: the NW extension is now bundled with [NetLogo 5.1.0](http://ccl.northwestern.edu/netlogo/5.1.0/);
 
 - And the [Rnd extension](https://github.com/NetLogo/Rnd-Extension#netlogo-rnd-extension) for weighted random selection.
 
